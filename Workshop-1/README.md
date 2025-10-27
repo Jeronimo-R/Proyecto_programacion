@@ -1,36 +1,30 @@
-# Universidad Nacional de Colombia - Course Materials
+# Conceptual design for an energy consumption meter simulator
 
-Welcome! This repository contains teaching materials, code examples, project guidelines, and slides for various courses taught by Prof. Carlos Andrés Sierra and colleagues at the Computer Engineering Program, School of Engineering, Universidad Nacional de Colombia.
+Welcome! This repository contains requirements documentation, user stories, mockups, CRC cards, and references for the object-oriented programming course, semester 2025-II.
 
 
 ## About
 
-This repository is intended for students and educators interested in:
-- Object-Oriented Programming (OOP)
-- Software Engineering practices
-- Project-based learning
-- Modern software design and development methodologies
+1. Requirements documentation
+1.1 Functional requirements
+1.2 No functional requirements
 
-Materials include:
-- Lecture slides
-- Example code
-- Project guidelines and templates
-- Teamwork and project management resources
+2. User stories
 
-## License
+3. Mockups
+3.1 Main dashboard
+3.2 Consumption
+3.3 Device menu
+3.4 AI Analysis
 
-See [LICENSE](LICENSE) for usage and distribution terms.
+4. CRC Cards
+4.1. Class: Device
+4.2. Class: Device manager
+4.3. Class: Energy calculator
+4.4. Class: Consumption history
+4.5. Class: Concept info
+4.6. Class: User settings
+4.7. Class: Notification manager
+4.8. Class: UI (user interface)
 
-## Contact
-
-For questions or suggestions, please contact:
-
-**Prof. Carlos Andrés Sierra, M.Sc.**  
-Computer Engineering Program  
-School of Engineering  
-Universidad Nacional de Colombia  
-Email: casierrav@unal.edu.co
-
----
-
-*This repository is maintained for educational purposes and is regularly updated with new materials and resources.*
+5. References
