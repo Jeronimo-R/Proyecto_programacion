@@ -2,6 +2,6 @@
 Repository for the OOP course
 
 Members:
-Andres Jeronimo Ramirez-
+Andres Jeronimo Ramirez\n
 David Santiago Ibañez-
 Johan Danilo Trujillo
