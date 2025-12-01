@@ -1,0 +1,1 @@
+COP_PER_KWH = 750

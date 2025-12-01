@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Refrigerator",
+        "expected_consumption": 150,
+        "sensor": {
+            "base_voltage": 120,
+            "base_current": 0.7,
+            "accumulated_energy": 339.589405396159
+        },
+        "monthly_history": []
+    },
+    {
+        "name": "Television",
+        "expected_consumption": 80,
+        "sensor": {
+            "base_voltage": 120,
+            "base_current": 0.3,
+            "accumulated_energy": 147.05311721988667
+        },
+        "monthly_history": []
+    },
+    {
+        "name": "Air Conditioner",
+        "expected_consumption": 1200,
+        "sensor": {
+            "base_voltage": 120,
+            "base_current": 0.9,
+            "accumulated_energy": 435.62163636414715
+        },
+        "monthly_history": []
+    },
+    {
+        "name": "Laptop",
+        "expected_consumption": 65,
+        "sensor": {
+            "base_voltage": 120,
+            "base_current": 0.15,
+            "accumulated_energy": 68.68534069348087
+        },
+        "monthly_history": []
+    }
+]
